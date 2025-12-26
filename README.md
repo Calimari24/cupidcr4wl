@@ -6,7 +6,8 @@
 
 cupidcr4wl is an open-source intelligence username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present. The need for a tool of this manner derived from missing persons investigations where dating, adult video/photo platforms, and concerns of human trafficking were found relevant.
 
-![demo](https://github.com/user-attachments/assets/e4fe1b7a-fa3e-4cf0-8321-8a926fc705c3)
+![demo](https://github.com/user-attachments/assets/e4fe1b7a-fa3e-4cf0-8321-8a926fc705c3)https://github.com/user-attachments/assets/e4fe1b7a-fa3e-4cf0-8321-8a926fc705c3)
+
 
 cupidcr4wl searches the following platforms:
 
@@ -36,7 +37,9 @@ cupidcr4wl **will** search and return results for platforms that host content fo
 
 1) Clone the repository:
 
-&nbsp;&nbsp;&nbsp;&nbsp;```git clone https://github.com/OSINTI4L/cupidcr4wl```
+https://github.com/user-attachments/assets/e4fe1b7a-fa3e-4cf0-8321-8a926fc705c3)
+
+
 
 
 2) Change directories to cupidcr4wl:
@@ -51,7 +54,9 @@ cupidcr4wl **will** search and return results for platforms that host content fo
 ## Usage
 1) To see all cupidcr4wl command line arguments:
 
-&nbsp;&nbsp;&nbsp;&nbsp;```python3 cc.py -h``` or ```python3 cc.py --help```
+&nbsp;&nbsp;&nbsp;&nbsp;```
+&nbsp;&nbsp;&nbsp;&nbsp;```
+-h``` or ```python3 cc.py --help```
 
 ```
 usage: cc.py [-h] [-p PHONENUMBER] [-u USERNAME] [--export-results] [--debug]
